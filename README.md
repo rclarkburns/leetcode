@@ -1,4 +1,4 @@
-# Collection of LeetCode solutions
+# Collection of LeetCode ~~solutions~~ attempts
 
 
 ![Thinking hard](https://media3.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
